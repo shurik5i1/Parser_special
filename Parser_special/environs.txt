@@ -1,0 +1,11 @@
+Admin_client=+7928*******
+Parse_client=+7909*******
+Shipper=+7928*******
+User_ids=1698***560:admin_client/5669***213:parse_client/1698***560:shipper
+Api_id=239***95
+Api_hash=62ae1cfd4c************f9d6af7dcd
+Client_name=parser_bot
+Bot_token=5452***011:AAFUvzvs2p************6btLS8oWCQSGM
+Signal_channel=2031***942/2112***462
+Parse_from_folder=RUPSIGNAL/RUSIGNAL
+News_from_folder=

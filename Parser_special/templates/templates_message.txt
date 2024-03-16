@@ -1,0 +1,26 @@
+signal words = workspace, tendency, instrument, margin_type, leverage, entrance_point, stop_loss, take_profit, id, channel_name, rate, confidence_rate, signal_rate, admin
+signal check symbol = {}
+signal devide symbol = |
+bold check symbol = <b><b>
+italic check symbol = <i><i>
+underline check symbol = <u><u>
+strikethrough check symbol = <s><s>
+not found signals symbol = ⁉️
+full signal message symbol = ✅
+missing signal message symbol = 🚫
+
+/template
+id :  {id} | rate :  {rate} | {confidence_rate} | {signal_rate}
+channel_name :  {channel_name}
+admin :  {admin}
+
+leverage :  {leverage} | margin_type :  {margin_type}
+
+tendency :  {tendency}
+instrument :  {instrument}
+
+entrance_point :  {entrance_point}
+stop_loss :  {stop_loss}
+take_profit :  {take_profit}
+
+/template

@@ -1,0 +1,5 @@
+Signal," Type"," Result"
+entrance_point,РВХ,РВХ MARKET
+entrance_point,ТВХ,ТВХ <num>
+entrance_point,ЛВХ,ЛВХ <num> - <num>
+entrance_point,РВХ-ЛВХ,РВХ - ЛВХ MARKET - <num>

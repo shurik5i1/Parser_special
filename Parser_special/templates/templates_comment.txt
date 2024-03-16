@@ -1,0 +1,18 @@
+signal check symbol = {}
+workspace symbol between words = |
+bold check symbol = <b><b>
+italic check symbol = <i><i>
+underline check symbol = <u><u>
+strikethrough check symbol = <s><s>
+
+
+/template
+‼️<i>Follow risk management, we allocate no more than 0.5-5% of the total deposit for each trade<i>‼️
+⚠️ <i>We fix the trade in parts: 50% on the first limit order, 25% on the second limit order, and the remainder on the third limit order (or at your discretion)<i>❕
+⚠️ <i>Don't forget to move the stop loss to break even after the first take profit<i>❕
+
+👉 <b>For registering and trading through our links on exchanges, you will receive the best bonuses for trading.<b>
+🏦 {workspace}
+
+👉 <i><u>Don't forget to share screenshots of your trades based on our signals.<u><i>
+/template

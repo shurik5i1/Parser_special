@@ -1,0 +1,4 @@
+ID,Channel_name,Channel_link,Admin,Rate,Confidence_rate,Signal_rate,Signals,Workspace,Instrument,Tendency,Leverage,Margin_type,Entrance_point,Stop_loss,Take_profit
+1845975740,ZERO TEST,,,50,50,50,,,#,LONG/SHORT,Плечо -,Cross,Открытие -,Стоп -,Цели -
+,,,,,,,DEF,DEF,,,DEF,DEF,DEF,DEF,DEF
+
